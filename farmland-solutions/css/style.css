@@ -271,6 +271,7 @@ button {
     top: 0px;
     position: relative;
     left: 85px;
+    padding-bottom: 20px;
 }
 .shoping_bag {
     float: right;

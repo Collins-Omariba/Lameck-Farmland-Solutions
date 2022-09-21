@@ -284,7 +284,7 @@ display: block;
 .email_box { width: 90%; }
 .footer_section::after { display: none; } 
 .useful_text { padding-top: 20px; }
-.toggle_menu { top: -27px; left: 0px; float: right; }
+.toggle_menu { top: -20px; left: 0px; float: right; }
 .padding_bottom { padding-bottom: 80px; }
 
 } 
@@ -372,7 +372,7 @@ ul.link li {
 }
 .togle_3 { display: none; }
 .background_bg{ background-image: url(../images/header-bg.png); background-repeat: no-repeat;}
-.toggle_menu { top: -25px; float: right; left: 0px; }
+.toggle_menu { top: -45px; float: right; left: 0px; }
 .logo { width: 50%; }
 .retailer_text { padding-top: 0px;}
 .form_section { width: 100%; }
