@@ -1,6 +1,6 @@
 # Lameck-Farmland-Solutions
 
-A sleek and optimized website developed using Javascript , HTML , CSS , Bootstrap and Jquery.
+A sleek and SEO optimized website developed using Javascript , HTML , CSS , Bootstrap and Jquery.
 
 Deployed Website:
 
