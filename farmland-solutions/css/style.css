@@ -471,6 +471,13 @@ button {
     color: #00ff00;
     padding-top: 80px; 
 }
+.about_location_text{
+    color: #00ff00;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: solid;
+}
 .lorem_text {
     width: 100%;
     float: left;
@@ -934,4 +941,37 @@ button {
 
 .contact_text a h2:hover{
     color:#00ff00;
+}
+
+.location_menu {
+    width: 100%;
+    float: left;
+    margin-left: 50px;
+}
+.location_menu ul{
+    margin: 0px;
+    padding: 0px; 
+    margin-left: 20px;
+}
+.location_menu li{
+    font-size: 16px;
+    color: #ffffff;
+}
+.location_menu li a{
+    color: #ffffff;
+}
+.location_menu li a:hover{
+    color: #00ff00;
+}
+.location_menu li::after {
+    content: '';
+    position: absolute;
+    background-color: #00ff00;
+    height: 10px;
+    width: 10px;
+    left: 0px;
+    justify-content: center;
+    border-radius: 100px;
+    margin-top: 9px;
+    margin-left: 45px;
 }
