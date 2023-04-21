@@ -1,6 +1,6 @@
 ## Lameck-Farmland-Solutions
 
-A sleek and SEO optimized website developed using Javascript , HTML , CSS , Bootstrap and Jquery.
+A sleek website developed using Javascript , HTML , CSS , Bootstrap and Jquery.
 
 ## Use
 Developed for a client who provides ploughing, planting, spraying and harrowing services to farmers in Kenya.
